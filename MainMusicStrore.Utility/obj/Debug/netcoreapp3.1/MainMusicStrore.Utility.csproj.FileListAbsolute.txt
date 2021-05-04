@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Utility\bin\Debug\netcoreapp3.1\MainMusicStrore.Utility.deps.json
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Utility\bin\Debug\netcoreapp3.1\MainMusicStrore.Utility.dll
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Utility\bin\Debug\netcoreapp3.1\MainMusicStrore.Utility.pdb
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Utility\obj\Debug\netcoreapp3.1\MainMusicStrore.Utility.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Utility\obj\Debug\netcoreapp3.1\MainMusicStrore.Utility.AssemblyInfo.cs
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Utility\obj\Debug\netcoreapp3.1\MainMusicStrore.Utility.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Utility\obj\Debug\netcoreapp3.1\MainMusicStrore.Utility.dll
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Utility\obj\Debug\netcoreapp3.1\MainMusicStrore.Utility.pdb

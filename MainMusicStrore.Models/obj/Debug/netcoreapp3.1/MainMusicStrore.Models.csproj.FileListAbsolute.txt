@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\bin\Debug\netcoreapp3.1\MainMusicStrore.Models.deps.json
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\bin\Debug\netcoreapp3.1\MainMusicStrore.Models.dll
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\bin\Debug\netcoreapp3.1\MainMusicStrore.Models.pdb
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\obj\Debug\netcoreapp3.1\MainMusicStrore.Models.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\obj\Debug\netcoreapp3.1\MainMusicStrore.Models.AssemblyInfo.cs
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\obj\Debug\netcoreapp3.1\MainMusicStrore.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\obj\Debug\netcoreapp3.1\MainMusicStrore.Models.dll
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\obj\Debug\netcoreapp3.1\MainMusicStrore.Models.pdb
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStrore.Models\obj\Debug\netcoreapp3.1\MainMusicStrore.Models.csprojAssemblyReference.cache
