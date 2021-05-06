@@ -13,21 +13,21 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-#line 1 "C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\Views\_ViewImports.cshtml"
+#line 1 "C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\Views\Shared\_ViewImports.cshtml"
 using MainMusicStore;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\Views\_ViewImports.cshtml"
+#line 2 "C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\Views\Shared\_ViewImports.cshtml"
 using MainMusicStore.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f5cf704dcfa229d1eee9a7c1cb2d58cb1f700b19", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f5cf704dcfa229d1eee9a7c1cb2d58cb1f700b19", @"/Views/Shared/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998

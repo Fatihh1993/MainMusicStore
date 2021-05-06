@@ -54,6 +54,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.13, )"
@@ -128,7 +132,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\USER\\source\\repos\\MainMusicStore\\MainMusicStrore.Models\\MainMusicStrore.Models.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\MainMusicStore\\MainMusicStrore.Models\\MainMusicStrore.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -141,6 +149,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.13, )"
@@ -208,6 +220,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -266,6 +284,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -2350,6 +2350,7 @@
       },
       "MainMusicStrore.DataAccess/1.0.0": {
         "dependencies": {
+          "MainMusicStrore.Models": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.13"
         },

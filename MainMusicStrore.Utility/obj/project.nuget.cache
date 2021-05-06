@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nyyzRdxGVQbU3+gxbImWeqdbFcpeGWfxiOlD7lpkvXv8QBQhaOa0zJtQ0SPCqAbsnEKFm2+hriVoXBEghwchrg==",
+  "dgSpecHash": "8JOwwszAcMD3hEVSILdRxHNaZrutNPD1y/e9VHZckKBJmdedv50E1kg7y839SEgBxsZ/5csdsBkjUJrEVGgvKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\source\\repos\\MainMusicStore\\MainMusicStrore.Utility\\MainMusicStrore.Utility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

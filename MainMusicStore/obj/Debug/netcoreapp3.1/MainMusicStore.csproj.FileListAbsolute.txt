@@ -68,8 +68,6 @@ C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\MainMusicStore.RazorTargetAssemblyInfo.cache
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\MainMusicStore.RazorTargetAssemblyInfo.cs
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -168,3 +166,9 @@ C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\MainMusicStore.genruntimeconfig.cache
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
 C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ViewStart.cshtml.g.cs
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\source\repos\MainMusicStore\MainMusicStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
